@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Yuri K!
 ## I’m a beginner *Front-end developer* from Moscow.
-### Check my website (coming soon...)
+### Check my !(website)[https://raccoonnorty.github.io/website/]
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript)
 ![ReactJS](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=react)
