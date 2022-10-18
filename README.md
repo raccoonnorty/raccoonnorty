@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Yuri K!
 ## I’m a beginner *Front-end developer* from Moscow.
-### Check my website - https://raccoonnorty.github.io/website/
+### Check my website - coming soon...
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript)
 ![ReactJS](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=react)
@@ -10,8 +10,8 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-### 📧 Mail me: makeroh77@gmail.com
-### ✍️ Telegramm, Instagram: @yuri.kuchmistov
+### 📧 Mail me: raccoonnorty@yandex.ru
+### ✍️ Telegramm, Instagram: @raccoonnorty, @yuri.kuchmistov
 #
 > If you only read the books that everyone else is reading, you can only think what everyone else is thinking.
 > ***Haruki Murakami***
